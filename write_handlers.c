@@ -1,6 +1,6 @@
 #include "main.h"
 
-/************************* WRITE HANDLE *************************/
+/* name: Choji Alexander Pam */
 /**
  * handle_write_char - Prints a string
  * @c: char types.
